@@ -23,3 +23,8 @@ To practice Git and GitHub operations such as repository creation, cloning, bran
 - Learned how to create and use multiple branches
 - Practiced committing and pushing changes
 - Understood Pull Requests and merge process
+
+## Additional Git Commands Practiced
+- git log
+- git diff
+- git branch -d
