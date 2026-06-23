@@ -1,0 +1,4 @@
+Name: Lavanya S
+Learning Objective: To practice Git and GitHub workflow including repository creation, branching, commits, pull requests, and merging.
+Date: 23-06-2026
+Progress: Completed branch creation, commits, and pull request workflow.
