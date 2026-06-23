@@ -28,3 +28,8 @@ To practice Git and GitHub operations such as repository creation, cloning, bran
 - git log
 - git diff
 - git branch -d
+
+## Branch Workflow Practiced
+- Created feature branches for isolated changes
+- Pushed branches to GitHub
+- Created Pull Requests to merge changes into main
